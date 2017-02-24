@@ -10,7 +10,7 @@ def sigmoid(x):
 
 
 # read csv
-df = pd.read_csv('C:\\Users\\root\\Downloads\\email_spam.csv')
+df = pd.read_csv('\\email_spam.csv')
 
 
 # convert strings to numerical values
